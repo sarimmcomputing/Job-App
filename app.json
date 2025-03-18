@@ -27,5 +27,11 @@
         "projectId": "ff31c432-7c15-42f5-a075-4f523f2b94e2"
       }
     }
-  }
+  },
+    "build": {
+        "production": {
+          "android": {
+            "buildType": "apk"
+          }
+  
 }
